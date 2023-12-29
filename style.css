@@ -1,0 +1,35 @@
+
+
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+    /* width: 40%; */
+  }
+
+
+  canvas{
+
+   float:right;
+    /* width: 40%; */
+    margin-top: 10px;
+    
+  }
+
+  button{
+    background-color: white;
+    color:black;
+    font-size: 20px;
+  }
+
+  #intro{
+    display: flex;
+    justify-content: center;
+  }
+
+  #main{
+    display: flex;
+    justify-content: center;
+  }
