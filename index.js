@@ -6,7 +6,7 @@ import {
 let total_times_clicked = 0
 
 const button = document.getElementById("button")
-
+  
 button.onclick = loadResult
 
 const initializefaceDetector = async () => {
